@@ -8,5 +8,4 @@ Features:
 ✅ Organized folders for assets (CSS, images).
 ✅ Ready for deployment via GitHub Pages.
 
-Live Demo:
-You can preview these templates directly via GitHub Pages (after enabling it).
+
